@@ -1,0 +1,1 @@
+require 'with_gc_stats/core'
