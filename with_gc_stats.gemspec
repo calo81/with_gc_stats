@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.name = "with_gc_stats"
   s.summary = "Super simple method for running a block of code with GC stats"
   s.description = File.read(File.join(File.dirname(__FILE__), 'README.md'))
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.author = "Carlo Scarioni"
   s.email = "carlo.scarioni@gmail.com"
   s.homepage = "http://cscarioni.blogspot.com"
